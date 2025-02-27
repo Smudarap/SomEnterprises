@@ -1,3 +1,5 @@
 Take the employees data
 Number of employees
 Check the attendance
+
+Create a table for employees
